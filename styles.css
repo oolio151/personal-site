@@ -11,16 +11,7 @@ html {
     background-color: rgb(0, 204, 194);
 }
 
-.hero {
-    background: url("me.png") no-repeat center center/cover;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: white;
-    position: relative;
-}
+
 
 .overlay {
     background-color: rgba(0, 0, 0, 0.3);
@@ -34,7 +25,7 @@ html {
 }
 
 .hero {
-    background: url("/me.png") no-repeat center center/cover;
+    background: url("./me.png") no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
